@@ -9,5 +9,5 @@ apt upgrade
 apt istall git
 git clone https://github.com/sunnamsriram1/AllTools.git
 cd AllTools
-bash AllTools.sh
+bash Alltools.sh
 ```
